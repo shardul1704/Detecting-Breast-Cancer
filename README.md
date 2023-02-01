@@ -22,4 +22,6 @@ iii. Unsupervised Learning using K-means clustering
 iv. Spectral clustering
 
 
+Skills - Data Science, Machine Learning, Supervised, Unsupervised, Semi-supervised learning, Spectral Clustering
+
 -----------------------------THANK YOU-----------------------------
